@@ -5,4 +5,4 @@ you are welcome to take inspiration, but please don't just copy it completely,
 as that would go against the spirit of the competition
 
 release format:
-<ver num> - mmm/dd/yyyy
+:ver num: - mmm/dd/yyyy
